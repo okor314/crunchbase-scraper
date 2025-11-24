@@ -1,0 +1,7 @@
+location_name,location_link,location_type,company_name
+San Francisco,https://www.crunchbase.com/search/organizations/field/organizations/location_identifiers/san-francisco-california,city,Anthropic
+California,https://www.crunchbase.com/search/organizations/field/organizations/location_identifiers/california-united-states,region,Anthropic
+United States,https://www.crunchbase.com/search/organizations/field/organizations/location_identifiers/united-states,country,Anthropic
+Livingston,https://www.crunchbase.com/search/organizations/field/organizations/location_identifiers/livingston-new-jersey,city,CoreWeave
+New Jersey,https://www.crunchbase.com/search/organizations/field/organizations/location_identifiers/new-jersey-united-states,region,CoreWeave
+United States,https://www.crunchbase.com/search/organizations/field/organizations/location_identifiers/united-states,country,CoreWeave

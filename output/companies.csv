@@ -1,0 +1,3 @@
+company_name,company_description,website,email,linkedin,facebook,twitter,company_type,operative_status,num_investors,num_funding_rounds,last_funding_type
+Anthropic,Anthropic is an AI research company that focuses on the safety and alignment of AI systems with human values.,https://www.anthropic.com,info@anthropic.com,https://www.linkedin.com/company/anthropicresearch,https://www.facebook.com/AnthropicAI,,for_profit,Active,89,16,series_f
+CoreWeave,CoreWeave is a cloud-based AI infrastructure company offering GPU cloud services to simplify AI and machine learning workloads.,https://www.coreweave.com,info@coreweave.com,https://www.linkedin.com/company/coreweave,https://www.facebook.com/ConciergeRender,,for_profit,Active,51,19,post-ipo_debt

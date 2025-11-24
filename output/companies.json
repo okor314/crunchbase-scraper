@@ -1,0 +1,356 @@
+[
+    {
+        "company_name": "Anthropic",
+        "company_description": "Anthropic is an AI research company that focuses on the safety and alignment of AI systems with human values.",
+        "website": "https://www.anthropic.com",
+        "email": "info@anthropic.com",
+        "linkedin": "https://www.linkedin.com/company/anthropicresearch",
+        "facebook": "https://www.facebook.com/AnthropicAI",
+        "twitter": null,
+        "company_type": "for_profit",
+        "operative_status": "Active",
+        "company_categories": [
+            {
+                "category": "Artificial Intelligence (AI)",
+                "category_link": "https://www.crunchbase.com/search/organizations/field/organization/categories/artificial-intelligence"
+            },
+            {
+                "category": "Generative AI",
+                "category_link": "https://www.crunchbase.com/search/organizations/field/organization/categories/generative-ai"
+            },
+            {
+                "category": "Information Technology",
+                "category_link": "https://www.crunchbase.com/search/organizations/field/organization/categories/information-technology-dbca"
+            },
+            {
+                "category": "Machine Learning",
+                "category_link": "https://www.crunchbase.com/search/organizations/field/organization/categories/machine-learning"
+            }
+        ],
+        "headquarter_location": [
+            {
+                "location_name": "San Francisco",
+                "location_link": "https://www.crunchbase.com/search/organizations/field/organizations/location_identifiers/san-francisco-california",
+                "location_type": "city"
+            },
+            {
+                "location_name": "California",
+                "location_link": "https://www.crunchbase.com/search/organizations/field/organizations/location_identifiers/california-united-states",
+                "location_type": "region"
+            },
+            {
+                "location_name": "United States",
+                "location_link": "https://www.crunchbase.com/search/organizations/field/organizations/location_identifiers/united-states",
+                "location_type": "country"
+            }
+        ],
+        "founders": [
+            {
+                "@type": "Person",
+                "name": "Daniela Amodei",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/5f54eeef7aab45a2a8f13087250901d3?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/daniela-amodei-d7d3"
+            },
+            {
+                "@type": "Person",
+                "name": "Dario Amodei",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/v1484971642/ysddve9geqdap1lkeflu.png?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/dario-amodei"
+            },
+            {
+                "@type": "Person",
+                "name": "Jack Clark",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/v1446790975/cd40mcxlumvlxniggrw1.jpg?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/jack-clark"
+            },
+            {
+                "@type": "Person",
+                "name": "Jared Kaplan",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/a96fd83f5e0646d1bc741a78e8b94b1a?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/jared-kaplan-d9da"
+            },
+            {
+                "@type": "Person",
+                "name": "Sam McCandlish",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/xuhe55irsl9wg5zkttti?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/sam-mccandlish-7e07"
+            },
+            {
+                "@type": "Person",
+                "name": "Tom Brown",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/sw1rkyvaa2iyqssidwup?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/tom-brown-096f"
+            }
+        ],
+        "products": [
+            {
+                "name": "Claude Opus 4",
+                "description": "A large language model designed for coding and AI agent tasks, capable of handling extended work sessions."
+            },
+            {
+                "name": "Sonnet 4",
+                "description": "An AI model focused on coding and AI agent capabilities, supporting extended task handling."
+            }
+        ],
+        "num_investors": 89,
+        "investors": [
+            {
+                "@type": "Organization",
+                "name": "XN",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/zkilkabbaam8zrftd0dm?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/zkilkabbaam8zrftd0dm?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/xn"
+            },
+            {
+                "@type": "Organization",
+                "name": "BlackRock",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/mrkgh4aeunkd2au7zaxf?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/mrkgh4aeunkd2au7zaxf?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/blackrock"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fidelity",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/eiho66vrkrxgzexhbdcf?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/eiho66vrkrxgzexhbdcf?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/fidelity-investments"
+            },
+            {
+                "@type": "Organization",
+                "name": "Altimeter Capital",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/mqxs55gyy5qewsgfiuhy?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/mqxs55gyy5qewsgfiuhy?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/altimeter-capital"
+            },
+            {
+                "@type": "Organization",
+                "name": "D1 Capital Partners",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/jkzjchhibmui0bvzulrb?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/jkzjchhibmui0bvzulrb?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/d1-capital-partners"
+            },
+            {
+                "@type": "Organization",
+                "name": "Clal Insurance",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/bosic9lcvrg3kdmysj1i?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/bosic9lcvrg3kdmysj1i?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/clal-insurance"
+            },
+            {
+                "@type": "Organization",
+                "name": "Blackstone Group",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/65dc198c9a5846cdb0fc5464bdd0dfaa?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/65dc198c9a5846cdb0fc5464bdd0dfaa?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/blackstone"
+            },
+            {
+                "@type": "Organization",
+                "name": "Coatue",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/c64b7b90b82a42289fa344920c8e6c4c?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/c64b7b90b82a42289fa344920c8e6c4c?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/coatue"
+            },
+            {
+                "@type": "Organization",
+                "name": "Baillie Gifford",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/bk2oskacz4xl7j58b4bf?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/bk2oskacz4xl7j58b4bf?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/baillie-gifford"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ontario Teachers' Pension Plan",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/qadcykfwsivbeuvvmklm?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/qadcykfwsivbeuvvmklm?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/ontario-teachers-pension-plan"
+            }
+        ],
+        "similar_companies": [
+            {
+                "competitor": "Ainia",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,h_24,w_24,f_auto,b_white,q_auto:eco,dpr_1/edaed5896283e60ff5e9?ik-sanitizeSvg=true",
+                "link": "https://www.crunchbase.com/organization/ainia"
+            },
+            {
+                "competitor": "TabbyML",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,h_24,w_24,f_auto,b_white,q_auto:eco,dpr_1/zz2a8eu1gbggtfon66hp?ik-sanitizeSvg=true",
+                "link": "https://www.crunchbase.com/organization/tabbyml"
+            }
+        ],
+        "num_funding_rounds": 16,
+        "last_funding_type": "series_f"
+    },
+    {
+        "company_name": "CoreWeave",
+        "company_description": "CoreWeave is a cloud-based AI infrastructure company offering GPU cloud services to simplify AI and machine learning workloads.",
+        "website": "https://www.coreweave.com",
+        "email": "info@coreweave.com",
+        "linkedin": "https://www.linkedin.com/company/coreweave",
+        "facebook": "https://www.facebook.com/ConciergeRender",
+        "twitter": null,
+        "company_type": "for_profit",
+        "operative_status": "Active",
+        "company_categories": [
+            {
+                "category": "Artificial Intelligence (AI)",
+                "category_link": "https://www.crunchbase.com/search/organizations/field/organization/categories/artificial-intelligence"
+            },
+            {
+                "category": "Cloud Computing",
+                "category_link": "https://www.crunchbase.com/search/organizations/field/organization/categories/cloud-computing"
+            },
+            {
+                "category": "Cloud Infrastructure",
+                "category_link": "https://www.crunchbase.com/search/organizations/field/organization/categories/cloud-infrastructure"
+            },
+            {
+                "category": "Information Technology",
+                "category_link": "https://www.crunchbase.com/search/organizations/field/organization/categories/information-technology-dbca"
+            },
+            {
+                "category": "Machine Learning",
+                "category_link": "https://www.crunchbase.com/search/organizations/field/organization/categories/machine-learning"
+            }
+        ],
+        "headquarter_location": [
+            {
+                "location_name": "Livingston",
+                "location_link": "https://www.crunchbase.com/search/organizations/field/organizations/location_identifiers/livingston-new-jersey",
+                "location_type": "city"
+            },
+            {
+                "location_name": "New Jersey",
+                "location_link": "https://www.crunchbase.com/search/organizations/field/organizations/location_identifiers/new-jersey-united-states",
+                "location_type": "region"
+            },
+            {
+                "location_name": "United States",
+                "location_link": "https://www.crunchbase.com/search/organizations/field/organizations/location_identifiers/united-states",
+                "location_type": "country"
+            }
+        ],
+        "founders": [
+            {
+                "@type": "Person",
+                "name": "Brannin McBee",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/q91jpcwxhq823fxvz0w4?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/brannin-mcbee"
+            },
+            {
+                "@type": "Person",
+                "name": "Brian Venturo",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/e0f24a07c69d439cadaf71749d05a4da?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/brian-venturo"
+            },
+            {
+                "@type": "Person",
+                "name": "Michael Intrator",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/e6c6f5e166b84883b1e64490ad79cc9b?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/michael-intrator"
+            },
+            {
+                "@type": "Person",
+                "name": "Peter Salanki",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/29f6bd910ad54e468a420207e0d4cab9?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/peter-salanki"
+            }
+        ],
+        "products": [
+            {
+                "name": "GPU Compute",
+                "description": "Cloud-based GPU compute resources delivered through a Kubernetes-native environment for AI workloads."
+            },
+            {
+                "name": "Storage Services",
+                "description": "Purpose-built cloud storage solutions tailored for AI workloads, offering high throughput and durability."
+            }
+        ],
+        "num_investors": 51,
+        "investors": [
+            {
+                "@type": "Organization",
+                "name": "Morgan Stanley",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/wmih1zms3i4qcwaevyw7?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/wmih1zms3i4qcwaevyw7?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/morgan-stanley"
+            },
+            {
+                "@type": "Organization",
+                "name": "MUFG Union Bank",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/wsgrcmsytslpo5agqqoo?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/wsgrcmsytslpo5agqqoo?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/mufg-union-bank"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sumitomo Mitsui Banking Corporation",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/twfec9aidbxgqwzuxgfo?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/twfec9aidbxgqwzuxgfo?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/sumitomo-mitsui-banking-corporation"
+            },
+            {
+                "@type": "Organization",
+                "name": "Wells Fargo",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/alitwmzrp4zws5iqyp4d?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/alitwmzrp4zws5iqyp4d?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/wells-fargo-bank"
+            },
+            {
+                "@type": "Organization",
+                "name": "Deutsche Bank",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1417828524/zpchvaetmyvjtoioa7w7.png?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1417828524/zpchvaetmyvjtoioa7w7.png?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/deutsche-bank"
+            },
+            {
+                "@type": "Organization",
+                "name": "Credit Agricole CIB",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1397760801/d101d0df86f52db7118fd8d480f52233.png?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1397760801/d101d0df86f52db7118fd8d480f52233.png?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/credit-agricole-cib"
+            },
+            {
+                "@type": "Organization",
+                "name": "Citibank",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/jvt64zzpziuswokmqdru?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/jvt64zzpziuswokmqdru?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/citibank"
+            },
+            {
+                "@type": "Organization",
+                "name": "Goldman Sachs",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/a1b02dfab02b4d42a357c582f17d86b3?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/a1b02dfab02b4d42a357c582f17d86b3?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/goldman-sachs"
+            },
+            {
+                "@type": "Organization",
+                "name": "JP Morgan Chase",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/xcmxfdnrjp3ra61swsxe?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/xcmxfdnrjp3ra61swsxe?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/jpmorgan-chase-co"
+            },
+            {
+                "@type": "Organization",
+                "name": "Jane Street Capital",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1490162034/isj6uhveo26gw837zr0m.png?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1490162034/isj6uhveo26gw837zr0m.png?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/jane-street-capital"
+            }
+        ],
+        "similar_companies": [
+            {
+                "competitor": "DataDirect Networks",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,h_24,w_24,f_auto,b_white,q_auto:eco,dpr_1/ikd5dche4thz1uhlqrbp?ik-sanitizeSvg=true",
+                "link": "https://www.crunchbase.com/organization/datadirect-networks"
+            },
+            {
+                "competitor": "Habana",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,h_24,w_24,f_auto,b_white,q_auto:eco,dpr_1/lnh4k353omd9yikqxok3?ik-sanitizeSvg=true",
+                "link": "https://www.crunchbase.com/organization/habana"
+            }
+        ],
+        "num_funding_rounds": 19,
+        "last_funding_type": "post-ipo_debt"
+    }
+]

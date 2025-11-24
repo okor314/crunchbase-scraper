@@ -1,0 +1,5 @@
+name,description,company_name
+Claude Opus 4,"A large language model designed for coding and AI agent tasks, capable of handling extended work sessions.",Anthropic
+Sonnet 4,"An AI model focused on coding and AI agent capabilities, supporting extended task handling.",Anthropic
+GPU Compute,Cloud-based GPU compute resources delivered through a Kubernetes-native environment for AI workloads.,CoreWeave
+Storage Services,"Purpose-built cloud storage solutions tailored for AI workloads, offering high throughput and durability.",CoreWeave
