@@ -178,7 +178,65 @@
             }
         ],
         "num_funding_rounds": 16,
-        "last_funding_type": "series_f"
+        "last_funding_type": "series_f",
+        "employees": [
+            {
+                "@type": "Person",
+                "name": "Dario Amodei",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/v1484971642/ysddve9geqdap1lkeflu.png?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/dario-amodei",
+                "jobTitle": "CEO & Co-Founder"
+            },
+            {
+                "@type": "Person",
+                "name": "Daniela Amodei",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/5f54eeef7aab45a2a8f13087250901d3?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/daniela-amodei-d7d3",
+                "jobTitle": "President & Co-Founder"
+            },
+            {
+                "@type": "Person",
+                "name": "Mike Krieger",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/eaxwwoi9tzhpy8xelrya?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/mike-krieger",
+                "jobTitle": "CPO"
+            },
+            {
+                "@type": "Person",
+                "name": "Jason Clinton",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/493f3cf2f3fb4c5abce9dd90cbbeb6fa?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/jason-clinton-d6e3",
+                "jobTitle": "CISO"
+            },
+            {
+                "@type": "Person",
+                "name": "Krishna Rao",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/czq2gc799e4swmpwf0qd?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/krishna-rao-99ab",
+                "jobTitle": "CFO"
+            },
+            {
+                "@type": "Person",
+                "name": "Jack Clark",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/v1446790975/cd40mcxlumvlxniggrw1.jpg?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/jack-clark",
+                "jobTitle": "Co-Founder"
+            },
+            {
+                "@type": "Person",
+                "name": "Tom Brown",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/sw1rkyvaa2iyqssidwup?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/tom-brown-096f",
+                "jobTitle": "Co-Founder"
+            },
+            {
+                "@type": "Person",
+                "name": "Sam McCandlish",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/xuhe55irsl9wg5zkttti?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/sam-mccandlish-7e07",
+                "jobTitle": "Co-Founder"
+            }
+        ]
     },
     {
         "company_name": "CoreWeave",
@@ -351,6 +409,287 @@
             }
         ],
         "num_funding_rounds": 19,
-        "last_funding_type": "post-ipo_debt"
+        "last_funding_type": "post-ipo_debt",
+        "employees": [
+            {
+                "@type": "Person",
+                "name": "Michael Intrator",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/e6c6f5e166b84883b1e64490ad79cc9b?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/michael-intrator",
+                "jobTitle": "CEO, Co-Founder, and President"
+            },
+            {
+                "@type": "Person",
+                "name": "Brannin McBee",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/q91jpcwxhq823fxvz0w4?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/brannin-mcbee",
+                "jobTitle": "CSO & Co-Founder"
+            },
+            {
+                "@type": "Person",
+                "name": "Mike Mattacola",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/hhw42ffellihl4bdu59x?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/mike-mattacola-0e96",
+                "jobTitle": "CBO"
+            },
+            {
+                "@type": "Person",
+                "name": "Nitin Agrawal",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/uglgo1mrbqtukgloxtef?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/nitin-agrawal-1e23",
+                "jobTitle": "CFO"
+            },
+            {
+                "@type": "Person",
+                "name": "Jeffrey Baker",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/76c074c149ed4f62a2161326de92be04?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/jeffrey-baker-c260",
+                "jobTitle": "CAO"
+            },
+            {
+                "@type": "Person",
+                "name": "Brian Venturo",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/e0f24a07c69d439cadaf71749d05a4da?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/brian-venturo",
+                "jobTitle": "CSO and Co-Founder"
+            },
+            {
+                "@type": "Person",
+                "name": "Michelle O'Rourke",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/69511a558c2d4817bdfdb41bfb992189?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/michelle-o-rourke-ca9b",
+                "jobTitle": "CPO"
+            },
+            {
+                "@type": "Person",
+                "name": "Peter Salanki",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/29f6bd910ad54e468a420207e0d4cab9?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/peter-salanki",
+                "jobTitle": "Director of Engineering"
+            }
+        ]
+    },
+    {
+        "company_name": "Perplexity",
+        "company_description": "Perplexity is an AI-powered answer engine designed to provide accurate, real-time responses to user queries.",
+        "website": "https://www.perplexity.ai",
+        "email": "support@perplexity.ai",
+        "linkedin": "https://www.linkedin.com/company/perplexity-ai",
+        "facebook": "https://www.facebook.com/perplexityofficial",
+        "twitter": null,
+        "company_type": "for_profit",
+        "operative_status": "Active",
+        "company_categories": [
+            {
+                "category": "Artificial Intelligence (AI)",
+                "category_link": "https://www.crunchbase.com/search/organizations/field/organization/categories/artificial-intelligence"
+            },
+            {
+                "category": "Chatbot",
+                "category_link": "https://www.crunchbase.com/search/organizations/field/organization/categories/chatbot-f0f7"
+            },
+            {
+                "category": "Machine Learning",
+                "category_link": "https://www.crunchbase.com/search/organizations/field/organization/categories/machine-learning"
+            },
+            {
+                "category": "Natural Language Processing",
+                "category_link": "https://www.crunchbase.com/search/organizations/field/organization/categories/natural-language-processing"
+            },
+            {
+                "category": "Search Engine",
+                "category_link": "https://www.crunchbase.com/search/organizations/field/organization/categories/search-engine-0d39"
+            }
+        ],
+        "headquarter_location": [
+            {
+                "location_name": "San Francisco",
+                "location_link": "https://www.crunchbase.com/search/organizations/field/organizations/location_identifiers/san-francisco-california",
+                "location_type": "city"
+            },
+            {
+                "location_name": "California",
+                "location_link": "https://www.crunchbase.com/search/organizations/field/organizations/location_identifiers/california-united-states",
+                "location_type": "region"
+            },
+            {
+                "location_name": "United States",
+                "location_link": "https://www.crunchbase.com/search/organizations/field/organizations/location_identifiers/united-states",
+                "location_type": "country"
+            }
+        ],
+        "founders": [
+            {
+                "@type": "Person",
+                "name": "Andy Konwinski",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/1cc869c80321469da8e59ec3c3bbc66a?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/andy-konwinski"
+            },
+            {
+                "@type": "Person",
+                "name": "Aravind Srinivas",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/hoydglarlnbswy4s2s8n?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/aravind-srinivas"
+            },
+            {
+                "@type": "Person",
+                "name": "Denis Yarats",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/b5tovtohp9br962nqtvh?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/denis-yarats"
+            },
+            {
+                "@type": "Person",
+                "name": "Johnny Ho",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/bzhn1aamobhb3ijlfcng?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/johnny-ho-4c00"
+            }
+        ],
+        "products": [
+            {
+                "name": "Perplexity Desktop App",
+                "description": "A desktop application that provides real-time AI-powered answers to user queries across various topics."
+            },
+            {
+                "name": "Perplexity iPhone App",
+                "description": "A mobile application for iPhone that offers AI-driven answers to user questions in real time."
+            }
+        ],
+        "num_investors": 49,
+        "investors": [
+            {
+                "@type": "Organization",
+                "name": "Uma Ventures",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/sxviktiou7cottjmaoij?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/sxviktiou7cottjmaoij?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/uma-ventures-9440"
+            },
+            {
+                "@type": "Organization",
+                "name": "NuVentures",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/mk69k9enjsocxszj0crr?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/mk69k9enjsocxszj0crr?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/nuventures-2"
+            },
+            {
+                "@type": "Organization",
+                "name": "SoftBank Vision Fund",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/ffdrqptwqzlbq8yw4qgq?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/ffdrqptwqzlbq8yw4qgq?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/softbank-vision-fund"
+            },
+            {
+                "@type": "Organization",
+                "name": "New Enterprise Associates",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/9ca7830174a149d6a6f40c6db4efa173?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/9ca7830174a149d6a6f40c6db4efa173?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/new-enterprise-associates"
+            },
+            {
+                "@type": "Organization",
+                "name": "IVP",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/it2kd8px91qgkellatdu?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/it2kd8px91qgkellatdu?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/institutional-venture-partners"
+            },
+            {
+                "@type": "Organization",
+                "name": "NVIDIA",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1502744943/jhowtgkdwv2aa1eodg2b.png?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1502744943/jhowtgkdwv2aa1eodg2b.png?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/nvidia"
+            },
+            {
+                "@type": "Person",
+                "name": "Eric Schmidt",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/v1486706421/b71zzse8szhqe28f9emn.png?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/eric-schmidt"
+            },
+            {
+                "@type": "Organization",
+                "name": "NVIDIA",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1502744943/jhowtgkdwv2aa1eodg2b.png?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1502744943/jhowtgkdwv2aa1eodg2b.png?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/nvidia"
+            },
+            {
+                "@type": "Organization",
+                "name": "Uma Ventures",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/sxviktiou7cottjmaoij?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/sxviktiou7cottjmaoij?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/uma-ventures-9440"
+            },
+            {
+                "@type": "Organization",
+                "name": "Accel",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/4b204c04e1714c96960ba47d4978be70?ik-sanitizeSvg=true",
+                "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/4b204c04e1714c96960ba47d4978be70?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/organization/accel"
+            }
+        ],
+        "similar_companies": [
+            {
+                "competitor": "The QA Company",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,h_24,w_24,f_auto,b_white,q_auto:eco,dpr_1/f61897aa69fb4f699c1d474299d4015f?ik-sanitizeSvg=true",
+                "link": "https://www.crunchbase.com/organization/the-qa-company"
+            },
+            {
+                "competitor": "Exa",
+                "image": "https://images.crunchbase.com/image/upload/c_pad,h_24,w_24,f_auto,b_white,q_auto:eco,dpr_1/233070b1f0d247659d8f88443f271d15?ik-sanitizeSvg=true",
+                "link": "https://www.crunchbase.com/organization/exa-1b30"
+            }
+        ],
+        "num_funding_rounds": 11,
+        "last_funding_type": "venture_-_series_unknown",
+        "employees": [
+            {
+                "@type": "Person",
+                "name": "Aravind Srinivas",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/hoydglarlnbswy4s2s8n?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/aravind-srinivas",
+                "jobTitle": "CEO & Co-Founder"
+            },
+            {
+                "@type": "Person",
+                "name": "Andy Konwinski",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/1cc869c80321469da8e59ec3c3bbc66a?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/andy-konwinski",
+                "jobTitle": "President & Co-Founder"
+            },
+            {
+                "@type": "Person",
+                "name": "Denis Yarats",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/b5tovtohp9br962nqtvh?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/denis-yarats",
+                "jobTitle": "CTO & Co-Founder"
+            },
+            {
+                "@type": "Person",
+                "name": "Johnny Ho",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/bzhn1aamobhb3ijlfcng?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/johnny-ho-4c00",
+                "jobTitle": "CSO & Co-Founder"
+            },
+            {
+                "@type": "Person",
+                "name": "Henry Modisett",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/pueojuswudflfuvrelm3?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/henry-modisett",
+                "jobTitle": "Head of Design"
+            },
+            {
+                "@type": "Person",
+                "name": "Tony Wu",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/4ab3e9201aa64bcd8839251fb77bed0c?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/tony-wu-e49d",
+                "jobTitle": "VP of Engineering"
+            },
+            {
+                "@type": "Person",
+                "name": "Dmitry Shevelenko",
+                "image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_face,z_0.7,q_auto:eco,dpr_1/rvy9fcn6pmlmzxmogbmi?ik-sanitizeSvg=true",
+                "url": "https://www.crunchbase.com/person/dmitry-shevelenko",
+                "jobTitle": "Chief Business Officer"
+            }
+        ]
     }
 ]

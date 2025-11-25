@@ -3,3 +3,5 @@ Claude Opus 4,"A large language model designed for coding and AI agent tasks, ca
 Sonnet 4,"An AI model focused on coding and AI agent capabilities, supporting extended task handling.",Anthropic
 GPU Compute,Cloud-based GPU compute resources delivered through a Kubernetes-native environment for AI workloads.,CoreWeave
 Storage Services,"Purpose-built cloud storage solutions tailored for AI workloads, offering high throughput and durability.",CoreWeave
+Perplexity Desktop App,A desktop application that provides real-time AI-powered answers to user queries across various topics.,Perplexity
+Perplexity iPhone App,A mobile application for iPhone that offers AI-driven answers to user questions in real time.,Perplexity
