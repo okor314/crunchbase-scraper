@@ -4,13 +4,10 @@ import json
 from utils import *
 from functools import partial
 
-BASE_URL = 'https://www.crunchbase.com/'
+BASE_URL = 'https://www.crunchbase.com'
 
 def parse_page(html: str) -> dict:
     soup = BeautifulSoup(html, 'html.parser')
-    test = soup.select_one('section[class="body"]:has(div[class~="product-container"])')
-    test = test.select('div[class="product-container"]')
-    print(len(test))
 
     # Get json with a lot of info
     json_data = json.loads(soup.select('structured-data script')[2].text)
@@ -28,12 +25,16 @@ def parse_page(html: str) -> dict:
 
     # CSS selectors for parsing page
     seletors = {
-        'email': 'blob-formatter span',
-        'company_type': 'span[title~="Profit"]',
-        'operative_status': 'div tile-field div:has(label-with-info:contains("Operating Status")) field-formatter span',
-        'company_categories': 'chips-container',
+        'email':                'label-with-info:contains("Email") + field-formatter',
+        'company_type':         'span[title~="Profit"]',
+        'operative_status':     'div tile-field div:has(label-with-info:contains("Operating Status")) field-formatter span',
+        'company_categories':   'chips-container',
         'headquarter_location': 'markup-block:contains("headquarters") field-formatter identifier-multi-formatter span',
-        'products': 'section[class="body"]:has(div[class~="product-container"])'
+        'products':             'section[class="body"]:has(div[class~="product-container"])',
+        'num_investors':        'markup-block:contains("investors") field-formatter a[href*="num_investors"]',
+        'similar_companies':    'signal-similar-companies-upsell',
+        'num_funding_rounds':   'label-with-info:contains("Number of Funding Rounds") + field-formatter a',
+        'last_funding_type':    'a[href*="last_funding_type"]',
     }
 
     # Functions to use on selected elements to extract data
@@ -43,15 +44,23 @@ def parse_page(html: str) -> dict:
         'operative_status': lambda x: x['title'],
         'company_categories': lambda x: extract_categories(x, base_url=BASE_URL),
         'headquarter_location': lambda x: extract_location(x, base_url=BASE_URL),
-        'products': lambda x: extract_products(x)
+        'products': lambda x: extract_products(x),
+        'num_investors': lambda x: int(x.text.strip()),
+        'similar_companies': lambda x: extract_competitors(x, base_url=BASE_URL),
+        'num_funding_rounds': lambda x: int(x.text.strip()),
+        'last_funding_type': lambda x: x.text.lower().replace(' ', '_'),
     }
     # Making funcs return default None if error occur
-    data_extractors = {k: partial(errorCatcher, v, lambda _: None) for k, v in data_extractors.items()}
+    data_extractors = {k: partial(errorCatcher,
+                                  v, 
+                                  lambda _: None if k not in ['company_categories', 'headquarter_location', 'products', 'investors', 'similar_companies'] else []) 
+                       for k, v in data_extractors.items()}
 
     # Selecting html-elements with data
     data_containers = {k: soup.select_one(selector) for k, selector in seletors.items()}
     # Extracting data from them
     parsed_data = {k:extr(data_containers[k]) for k, extr in data_extractors.items()}
+    
     return {
         'company_name': json_data.get('name'),
         'company_description': json_data.get('description'),
@@ -66,10 +75,20 @@ def parse_page(html: str) -> dict:
         'headquarter_location': parsed_data.get('headquarter_location'),
         'founders': json_data.get('founder'),
         'products': parsed_data.get('products'),
+        'num_investors': parsed_data.get('num_investors'),
+        'investors': json_data.get('funder'),
+        'similar_companies': parsed_data.get('similar_companies'),
+        'num_funding_rounds': parsed_data.get('num_funding_rounds'),
+        'last_funding_type': parsed_data.get('last_funding_type'),
+        'employees': json_data.get('employee')
     }
 
 if __name__ == '__main__':
-    with open('./html_examples/example1.txt', 'r', encoding='utf-8') as f:
-        html = f.read()
-    result = parse_page(html)
-    print(result)
+    writer = TableWriter(output_dir='../output')
+
+    for filename in os.listdir('../html_examples'):
+        with open(f'../html_examples/{filename}', 'r', encoding='utf-8') as f:
+            html = f.read()
+        result = parse_page(html)
+        writer.write_nested(result, 'companies', primary_fields=['company_name'])
+        writer.write_json(result, 'companies.json')
